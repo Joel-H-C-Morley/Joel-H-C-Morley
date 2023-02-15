@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🔭I'm a quantum physics PhD grad, currently building software applications to process and analyse data.
+
 🌱 I’m currently learning ML optimisation techniques
+
 😄 Pronouns: he/him
 <!--
 **Joel-H-C-Morley/Joel-H-C-Morley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
