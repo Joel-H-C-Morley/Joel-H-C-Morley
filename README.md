@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭I'm a quantum physics PhD grad, currently building software applications to process and analyse data.
+🔭I'm a **quantum physics** PhD grad, currently building software applications to process and analyse data.
 
-🌱 I’m currently learning ML optimisation techniques
+🌱 I’m currently learning the full stack landscape and ML optimisation techniques as I transition from experimental, academic research into the data and software industry.
 
 😄 Pronouns: he/him
 <!--
